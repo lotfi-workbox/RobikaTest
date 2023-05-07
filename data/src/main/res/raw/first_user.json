@@ -1,0 +1,331 @@
+[
+  {
+    "username": "first_user_1",
+    "password": "some_password",
+    "name": "first user",
+    "image": "https://i.pravatar.cc/300?img=1",
+    "posts": [
+      {
+        "image": "https://picsum.photos/id/1/200/300",
+        "caption": "Lorem ipsum dolor sit amet,consectetuer adipiscing elit.",
+        "time": 1683318551513,
+        "creatorId": 1,
+        "comments": [
+          {
+            "text": "nisi quis porttitor congue, elit erat euismod orci.",
+            "creatorId": 2,
+            "time": 1683275870151,
+            "postId": 1683234797043,
+            "likes": [
+              {
+                "creatorId": 1,
+                "targetId": 1683234913627,
+                "targetType": "COMMENT",
+                "id": 1683234889547
+              }
+            ],
+            "id": 1683234913627
+          }
+        ],
+        "likes": [
+          {
+            "creatorId": 2,
+            "targetId": 1683234797043,
+            "targetType": "POST",
+            "id": 1683234896707
+          }
+        ],
+        "id": 1683234797043
+      },
+      {
+        "image": "https://picsum.photos/id/2/200/300",
+        "caption": "vitae, eleifend ac, enim. Aliquam lorem ante,",
+        "time": 1683318556512,
+        "creatorId": 1,
+        "comments": [
+          {
+            "text": "Donec elit libero, sodales nec, volutpat",
+            "creatorId": 3,
+            "time": 1683275908789,
+            "postId": 1683234993037,
+            "likes": [
+              {
+                "creatorId": 1,
+                "targetId": 1683235046000,
+                "targetType": "COMMENT",
+                "id": 1683235064062
+              }
+            ],
+            "id": 1683235046000
+          }
+        ],
+        "likes": [
+          {
+            "creatorId": 2,
+            "targetId": 1683234993037,
+            "targetType": "POST",
+            "id": 1683235040341
+          }
+        ],
+        "id": 1683234993037
+      },
+      {
+        "image": "https://picsum.photos/id/3/200/300",
+        "caption": "faucibus orci luctus et ultrices posuere cubilia Curae.",
+        "time": 1683318563256,
+        "creatorId": 1,
+        "comments": [
+          {
+            "text": "lacinia. Nam pretium turpis et arcu. Duis arcu tortor, suscipit eget",
+            "creatorId": 2,
+            "time": 1683275938535,
+            "postId": 1683235552744,
+            "likes": [
+              {
+                "creatorId": 1,
+                "targetId": 1683235573632,
+                "targetType": "COMMENT",
+                "id": 1683235615753
+              }
+            ],
+            "id": 1683235573632
+          }
+        ],
+        "likes": [
+          {
+            "creatorId": 2,
+            "targetId": 1683235552744,
+            "targetType": "POST",
+            "id": 1683235580295
+          }
+        ],
+        "id": 1683235552744
+      },
+      {
+        "image": "https://picsum.photos/id/4/200/300",
+        "caption": "Donec posuere vulputate arcu. Phasellus accumsan.",
+        "time": 1683318568689,
+        "creatorId": 1,
+        "comments": [
+          {
+            "text": "imperdiet iaculis, ipsum. Sed aliquam ultrices mauris.",
+            "creatorId": 2,
+            "time": 1683276072531,
+            "postId": 1683235742643,
+            "likes": [
+              {
+                "creatorId": 1,
+                "targetId": 1683235766626,
+                "targetType": "COMMENT",
+                "id": 1683235778443
+              }
+            ],
+            "id": 1683235766626
+          }
+        ],
+        "likes": [
+          {
+            "creatorId": 2,
+            "targetId": 1683235742643,
+            "targetType": "POST",
+            "id": 1683235761228
+          }
+        ],
+        "id": 1683235742643
+      },
+      {
+        "image": "https://picsum.photos/id/5/200/300",
+        "caption": "Lfeugiat, pede. Sed lectus. Donec mollis hendrerit risus. Phasellus.",
+        "time": 1683318573983,
+        "creatorId": 1,
+        "comments": [
+          {
+            "text": "on, euismod vitae, posuere imperdiet, leo. Maecenas",
+            "creatorId": 2,
+            "time": 1683276090882,
+            "postId": 1683235960479,
+            "likes": [
+              {
+                "creatorId": 1,
+                "targetId": 1683235992200,
+                "targetType": "COMMENT",
+                "id": 1683236004000
+              }
+            ],
+            "id": 1683235992200
+          }
+        ],
+        "likes": [
+          {
+            "creatorId": 2,
+            "targetId": 1683235960479,
+            "targetType": "POST",
+            "id": 1683235976830
+          }
+        ],
+        "id": 1683235960479
+      },
+      {
+        "image": "https://picsum.photos/id/6/200/300",
+        "caption": "adipiscing. Phasellus ullamcorper ipsum rutrum nunc.",
+        "time": 1683318578600,
+        "creatorId": 1,
+        "comments": [
+          {
+            "text": "mollis sed, nonummy id, metus. Nullam accumsan",
+            "creatorId": 2,
+            "time": 1683276105509,
+            "postId": 1683236058546,
+            "likes": [
+              {
+                "creatorId": 1,
+                "targetId": 1683236087024,
+                "targetType": "COMMENT",
+                "id": 1683236105459
+              }
+            ],
+            "id": 1683236087024
+          }
+        ],
+        "likes": [
+          {
+            "creatorId": 2,
+            "targetId": 1683236058546,
+            "targetType": "POST",
+            "id": 1683236081433
+          }
+        ],
+        "id": 1683236058546
+      },
+      {
+        "image": "https://picsum.photos/id/7/200/300",
+        "caption": "Cras ultricies mi eu turpis hendrerit fringilla.",
+        "time": 1683318582865,
+        "creatorId": 1,
+        "comments": [
+          {
+            "text": "vulputate arcu. Phasellus accumsan cursus velit",
+            "creatorId": 2,
+            "time": 1683276119779,
+            "postId": 1683236233036,
+            "likes": [
+              {
+                "creatorId": 1,
+                "targetId": 1683236257724,
+                "targetType": "COMMENT",
+                "id": 1683236274203
+              }
+            ],
+            "id": 1683236257724
+          }
+        ],
+        "likes": [
+          {
+            "creatorId": 2,
+            "targetId": 1683236233036,
+            "targetType": "POST",
+            "id": 1683236251851
+          }
+        ],
+        "id": 1683236233036
+      },
+      {
+        "image": "https://picsum.photos/id/8/200/300",
+        "caption": "Nullam quis ante. Etiam sit amet orci eget eros faucibus tincidunt. Duis leo.",
+        "time": 1683318587473,
+        "creatorId": 1,
+        "comments": [
+          {
+            "text": "purus. Ut varius tincidunt libero.",
+            "creatorId": 2,
+            "time": 1683276131923,
+            "postId": 1683239946862,
+            "likes": [
+              {
+                "creatorId": 1,
+                "targetId": 1683239971342,
+                "targetType": "COMMENT",
+                "id": 1683239994304
+              }
+            ],
+            "id": 1683239971342
+          }
+        ],
+        "likes": [
+          {
+            "creatorId": 2,
+            "targetId": 1683239946862,
+            "targetType": "POST",
+            "id": 1683239963047
+          }
+        ],
+        "id": 1683239946862
+      },
+      {
+        "image": "https://picsum.photos/id/9/200/300",
+        "caption": "rhoncus, sem quam semper libero.",
+        "time": 1683318591808,
+        "creatorId": 1,
+        "comments": [
+          {
+            "text": "Aenean commodo ligula eget dolor. Aenean massa.",
+            "creatorId": 2,
+            "time": 1683276148850,
+            "postId": 1683240015398,
+            "likes": [
+              {
+                "creatorId": 1,
+                "targetId": 1683240044263,
+                "targetType": "COMMENT",
+                "id": 1683240058097
+              }
+            ],
+            "id": 1683240044263
+          }
+        ],
+        "likes": [
+          {
+            "creatorId": 2,
+            "targetId": 1683240015398,
+            "targetType": "POST",
+            "id": 1683240035486
+          }
+        ],
+        "id": 1683240015398
+      },
+      {
+        "image": "https://picsum.photos/id/10/200/300",
+        "caption": "odio et ante tincidunt tempus. Donec vitae sapien ut libero venenatis faucibus.",
+        "time": 1683318597304,
+        "creatorId": 1,
+        "comments": [
+          {
+            "text": "aliquet nec, vulputate eget, arcu. In enim justo",
+            "creatorId": 2,
+            "time": 1683276163794,
+            "postId": 1683240104544,
+            "likes": [
+              {
+                "creatorId": 1,
+                "targetId": 1683240121392,
+                "targetType": "COMMENT",
+                "id": 1683240136592
+              }
+            ],
+            "id": 1683240121392
+          }
+        ],
+        "likes": [
+          {
+            "creatorId": 2,
+            "targetId": 1683240104544,
+            "targetType": "POST",
+            "id": 1683240143092
+          }
+        ],
+        "id": 1683240104544
+      }
+    ],
+    "id": 1
+  }
+]
